@@ -26,9 +26,10 @@
 ## 피어리뷰
 |피어리뷰 회차|링크|
 |:--------:|:--:|
-|피어리뷰 1회차|https://shorturl.at/bgnwQ|
-|피어리뷰 2회차|https://shorturl.at/ghJ79|
-|피어리뷰 3회차|(업로드 예정)|
+|피어리뷰 1회차|https://shorturl.at/hmp19|
+|피어리뷰 2회차|https://shorturl.at/hzEK0|
+|피어리뷰 3회차|https://shorturl.at/isJK1|
+|피어리뷰 4회차|(업로드 예정)|
 
 ## 발표
 |발표 제목|링크|

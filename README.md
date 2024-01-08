@@ -34,6 +34,6 @@
 ## 발표
 |발표 제목|링크|
 |:-----:|:-:|
-|익명클래스와 Lambda|(업로드 예정)|
+|익명클래스와 Lambda|https://www.youtube.com/watch?v=5nAUcCBCKuU&t=100s|
 |Spring Security6 에서의 Session 변경점과 delegatingFilterProxy|(업로드 예정)|
 |멘토님과의 코드리뷰 XY 문제를 피하자.|https://youtu.be/Ox5q-luVvwY?si=5ciUeWYMFJdnm61Q|
